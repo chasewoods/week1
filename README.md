@@ -1,8 +1,6 @@
 # Week 1
 
-Reading material:  
-*  Useful tutorial: http://www.ni.com/white-paper/7588/en/ 
-*  chapters 1 and 2 in the text
+Reading material: http://www.ni.com/white-paper/7588/en/
 
 ### Class exercises
 * Problem 1.4: Metronome
